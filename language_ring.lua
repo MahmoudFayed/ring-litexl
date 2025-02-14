@@ -9,7 +9,7 @@ local keywords = {
   "import", "load", "new", "package", "private", "changeringkeyword", "changeringoperator",
   "loadsyntax", "endclass", "endpackage", "if", "but", "else", "elseif", "ok", "for",
   "foreach", "to", "next", "catch", "step", "endfor", "while", "other", "end", "do",
-  "endwhile", "endswitch", "endtry", "try", "break", "bye", "continue", "default",
+  "endif", "endwhile", "endswitch", "endtry", "try", "break", "bye", "continue", "default",
   "endfunc", "endfunction", "return", "switch", "case", "on", "off", "again", "exit",
   "loop", "done", "in", "func", "def", "nl"
 }
